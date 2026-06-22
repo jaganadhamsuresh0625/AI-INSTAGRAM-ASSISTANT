@@ -9,7 +9,7 @@ Features:
 
 * Comment processing
 * AI-generated replies
-* Database storage  
+* Database storage
 * Basic backend API
 
 Technologies:
